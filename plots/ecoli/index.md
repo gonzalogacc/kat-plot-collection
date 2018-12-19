@@ -1,5 +1,6 @@
 
-title: ecoli
+E.coli
+---
 
 Organism: `Ecoli-k12`
 
